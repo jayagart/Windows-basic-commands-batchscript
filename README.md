@@ -23,53 +23,52 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+![mkdir](./img/01.png)
 
 ## COMMAND AND OUTPUT
-
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-
+![rmdir](./img/02.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-
+![copy](./img/03.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-
+![create](./img/04.png)
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![cpy](./img/05.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+![rmv](./img/06.png)
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+![list](./img/07.png)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-
+![listfiles](./img/08.png)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-
+![cmp](./img/09.png)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-
-
-
 ## OUTPUT
-
+![e2](./img/10.png)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -83,7 +82,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-
+![e3](./img/11.png)
 
 
 
@@ -93,7 +92,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-
+![e4](./img/12.png)
 
 
 
@@ -106,7 +105,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-
+![e5](./img/13.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,7 +115,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-
+![e6](./img/14.png)
 
 
 # RESULT:
